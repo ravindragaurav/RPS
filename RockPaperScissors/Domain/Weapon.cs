@@ -1,6 +1,6 @@
 ﻿namespace RockPaperScissors.Domain
 {
-    public enum Options
+    public enum Weapon
     {
         Rock,
         Paper,
