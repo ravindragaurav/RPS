@@ -66,3 +66,4 @@ C:\Code\Probation Exercises\RockPaperScissors\RockPaperScissors\bin\Microsoft.Ow
 C:\Code\Probation Exercises\RockPaperScissors\RockPaperScissors\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Code\Probation Exercises\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.dll
 C:\Code\Probation Exercises\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Code\Probation Exercises\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojResolveAssemblyReference.cache
